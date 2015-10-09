@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Thu Oct 08 07:21:16 MSK 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0150-45ae-84f8-00001de36340 
+on database directory /tmp/gfembed1711279889846359193tmp/lib/databases/embedded_default  with class loader java.net.URLClassLoader@2e807c54 
+Loaded from file:/home/akilesa/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/4.0/glassfish-embedded-all-4.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/home/akilesa/data/projects/katas/jee-kata
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 08 07:29:27 MSK 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance 560740aa-0150-45ae-84f8-00001de36340 
+on database directory /tmp/gfembed3568636283239671230tmp/lib/databases/embedded_default  with class loader java.net.URLClassLoader@2e807c54 
+Loaded from file:/home/akilesa/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/4.0/glassfish-embedded-all-4.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/home/akilesa/data/projects/katas/jee-kata
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
